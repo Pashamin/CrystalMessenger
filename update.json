@@ -1,0 +1,7 @@
+{
+  "versionName": "2.0.48",
+  "versionCode": 2048,
+  "notes": "Исправлены ошибки, улучшены статусы и автоскролл.",
+  "apkUrl": "https://github.com/OWNER/REPO/releases/download/v2.0.47/app-2.0.47.apk",
+  "force": false
+}
